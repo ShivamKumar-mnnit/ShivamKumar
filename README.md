@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MICKEY-mi
+- 👋 Hi, I’m Shivam Kumar
 - 👀 I’m interested in coding ,exploring and learning
 - 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on ...
