@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/file/d/1OQxrM4glD6lTrvHf05tEirIoAs8tvnyz/view?usp=drive_link)
+[![MasterHead](https://img.freepik.com/free-vector/development-typographic-header-presenting-content-web-pages-website-layout-composition-color-development-idea-computer-technology-flat-vector-illustration_613284-2493.jpg?size=626&ext=jpg)
 <h1 align="center">Hi 👋, I'm Shivam Kumar</h1>
 <h3 align="center">A passionate Full Stack Web-Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
